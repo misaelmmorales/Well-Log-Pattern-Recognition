@@ -1,1 +1,1 @@
-# Well-Log-Pattern-Recognition
+# Well Log Pattern Recognition
